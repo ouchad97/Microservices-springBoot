@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47eaa93f-9f06-4b80-8e17-56f80f572963" name="Changes" comment="From IJ" />
+    <list default="true" id="47eaa93f-9f06-4b80-8e17-56f80f572963" name="Changes" comment="From IJ">
+      <change afterPath="$PROJECT_DIR$/discovery-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/java/com/ouchadprogramming/inventoryservice/controller/InventoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/java/com/ouchadprogramming/inventoryservice/controller/InventoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/java/com/ouchadprogramming/inventoryservice/service/InventoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/java/com/ouchadprogramming/inventoryservice/service/InventoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/target/classes/com/ouchadprogramming/inventoryservice/controller/InventoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/target/classes/com/ouchadprogramming/inventoryservice/controller/InventoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/target/classes/com/ouchadprogramming/inventoryservice/service/InventoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/target/classes/com/ouchadprogramming/inventoryservice/service/InventoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/com/ouchadprogramming/orderservice/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/com/ouchadprogramming/orderservice/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/classes/com/ouchadprogramming/orderservice/service/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/classes/com/ouchadprogramming/orderservice/service/OrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservices-parent/order-service" beforeDir="false" afterPath="$PROJECT_DIR$/../microservices-parent/order-service" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +30,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1f991efb-e5c5-41ff-aae1-c6260968fe2c" />
+        <option name="url" value="https://github.com/ouchad97/Microservices-springBoot.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -52,7 +71,7 @@
       <command value="mvn clean verify" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.OrderServiceApplication">
+  <component name="RunManager" selected="Application.InventoryServiceApplication">
     <configuration name="InventoryServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ouchadprogramming.inventoryservice.InventoryServiceApplication" />
       <module name="inventory-service" />
@@ -116,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660908609985</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="From IJ">
+      <created>1660909071379</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660909071379</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
