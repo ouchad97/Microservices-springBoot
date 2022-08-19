@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47eaa93f-9f06-4b80-8e17-56f80f572963" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/com/ouchadprogramming/orderservice/dto/InventoryResponse.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../microservices-parent/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../microservices-parent/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../microservices-parent/.idea/encodings.xml" afterDir="false" />
@@ -117,6 +118,7 @@
       <change afterPath="$PROJECT_DIR$/../microservices-parent/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../microservices-parent/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/order-service/src/main/java/com/ouchadprogramming/orderservice/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/com/ouchadprogramming/orderservice/service/OrderService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../product-service/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../product-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
@@ -165,6 +167,9 @@
       <recent name="E:\sptringboot-microservices\microservices-new\inventory-service" />
       <recent name="E:\sptringboot-microservices\microservices-new\product-service" />
       <recent name="E:\sptringboot-microservices\microservices-new\order-service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ouchadprogramming.orderservice.dto" />
     </key>
   </component>
   <component name="RunAnythingCache">
