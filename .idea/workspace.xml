@@ -117,7 +117,7 @@
       <change afterPath="$PROJECT_DIR$/../microservices-parent/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../microservices-parent/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/com/ouchadprogramming/productservice/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/com/ouchadprogramming/productservice/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/src/test/java/com/ouchadprogramming/productservice/ProductServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/test/java/com/ouchadprogramming/productservice/ProductServiceApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../product-service/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../product-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../product-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
