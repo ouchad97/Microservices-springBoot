@@ -1,0 +1,10 @@
+com\ouchadprogramming\productservice\controller\ProductController.class
+com\ouchadprogramming\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\ouchadprogramming\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\ouchadprogramming\productservice\model\Product.class
+com\ouchadprogramming\productservice\ProductServiceApplication.class
+com\ouchadprogramming\productservice\model\Product$ProductBuilder.class
+com\ouchadprogramming\productservice\repository\ProductRepository.class
+com\ouchadprogramming\productservice\dto\ProductResponse.class
+com\ouchadprogramming\productservice\dto\ProductRequest.class
+com\ouchadprogramming\productservice\service\ProductService.class
